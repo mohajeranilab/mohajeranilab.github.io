@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the lab
 nav: true
 nav_order: 7
 
@@ -10,19 +10,45 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: majid.jpg
+    content: about_majid.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Dr. Majid Mohajerani</p>
+      <p>Principal Investigator</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: alireza_gharahi.jpg
+    content: about_alireza.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Dr. Alireza Gharahi</p>
+      <p>Postdoc</p>
+  - align: right
+    image: farzad_sabahi.jpg
+    content: about_farzad.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Farzad Sabahi</p>
+      <p>Postdoc</p>
+  - align: left
+    image: navid_ghassemi.jpg
+    content: about_navid.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Navid Ghassemi</p>
+      <p>Ph.D. Student</p>
+  - align: right
+    image: justine.PNG
+    content: about_justine.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Yujun (Justine) Zhu</p>
+      <p>Ph.D. Student</p>
+  - align: left
+    image: ali_goldani.jpg
+    content: about_ali.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ali Goldani</p>
+      <p>Research Assistant</p>
 ---

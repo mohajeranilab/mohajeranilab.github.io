@@ -44,3 +44,5 @@ Academic Excellence: As part of McGill University, you'll be immersed in an envi
 If you’re passionate about this position and want to work in a dynamic and exciting environment, please apply with your resume and a cover letter describing your relevant experience and why you’re the right fit for this role. We strive to ensure that our team is diverse, equitable, and inclusive. All qualified applicants, including women and members of visible minority groups, are welcome to apply. If you meet all the requirements, please fill out this form. 
 
 Note: Note: Your responses should follow the instructions (file names, etc.) We will only review applications submitted using the following form. 
+
+<a href="https://forms.gle/4z5GERter39PwaqV6">Link</a>

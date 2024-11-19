@@ -1,0 +1,3 @@
+Alireza holds an MSc in Civil Structural Engineering, an MSc in Mechanical Engineering, and a PhD in Mechanical Engineering, focusing on applied mathematics in solid mechanics and the analysis of micro- and nanomaterials and structures. 
+
+As a postdoctoral fellow in MMLab at McGill University, his current research focuses on the theory of biological and artificial neural networks and deep learning models, using statistical theories of continuum limits to investigate their mechanism and predict their behavior. He is particularly interested in analyzing neural networks' criticality and performance and the stability of their dynamics within stochastic field theoretic frameworks.

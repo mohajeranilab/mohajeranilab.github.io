@@ -2,24 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>6875 Boulevard LaSalle</p>
+    <p>Montréal, QC</p>
+    <p>H4H 1R3</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Our lab focuses on exploring the complexities of neural dynamics, with a special emphasis on sensorimotor integration and memory systems. We take a multidisciplinary approach, combining advanced techniques such as optical imaging (e.g., two-photon microscopy), optogenetics, electrophysiology, behavioral analysis, and computational modeling. Our aim is to understand how different brain regions collaborate to encode and consolidate memory, as well as to generate motor movements based on sensory inputs.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are also deeply interested in the structure-function relationships in the brain. Leveraging our expertise in optics, engineering, and microscopy, we develop and utilize state-of-the-art hardware to capture brain activity and behavior across multiple scales. Additionally, our strong foundation in computational neuroscience allows us to create innovative tools, including artificial intelligence and machine learning approaches, to study brain dynamics and behavior in both healthy and diseased states.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<h3>Our current research focuses on:</h3>
+<ul>
+<li><b>Memory and Neocortical Function:</b> Investigating how hippocampal outflow influences neocortical physiology, information processing, and plasticity.</li>
+<li><b>Neuromodulatory Systems:</b> Studying the roles of neurotransmitters such as acetylcholine, serotonin, dopamine, and norepinephrine in memory formation and retrieval.</li>
+<li><b>Stress and Cognitive Function:</b> Examining the effects of stress on cellular structure, brain dynamics, and cognitive processes.</li>
+<li><b>Alzheimer’s Disease:</b> Understanding the links between genetic and environmental factors, pathology deposition, brain network dysfunction, and cognitive deficits in Alzheimer’s disease.
+<li><b>Motor Control:</b> Identifying the neural mechanisms underlying motor control in animal models and humans to develop new diagnostic and therapeutic approaches for brain damage recovery.</li>
+<li><b>Tool Development:</b> Creating innovative software and hardware solutions to support the neuroscience community.</li>
