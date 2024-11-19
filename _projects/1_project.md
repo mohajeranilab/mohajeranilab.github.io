@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic Cow
 description: Overcoming challenges of data scarcity
-img: assets/img/12.jpg
+img: assets/img/ali_project_figure.jpg
 importance: 1
 category: Works
 related_publications: true
