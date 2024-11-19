@@ -1,0 +1,2 @@
+Ali is a software engineer based in Canada. He got his bachelor's in Computer Engineering from Ferdowsi University of Mashhad. Then, he came to Canada and pursued a master's in computational neuroscience from University of Lethbridge. He is currently working as a Machine Learning Engineer at the Hub for Neuroengineering Solutions. He is interested in the intersection of Machine Learning, Computer Graphics, and Computer Vision.
+
