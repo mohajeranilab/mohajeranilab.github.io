@@ -5,5 +5,5 @@ description: A framework for data and knowledge sharing in automated behavioral 
 img: assets/img/openpheno.png
 redirect: https://www.openpheno.quest
 importance: 2
-category: Open Science
+category: OpenScience
 ---

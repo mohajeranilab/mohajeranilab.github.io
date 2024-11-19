@@ -5,5 +5,5 @@ description: A framework for Open Science in Cattle Monitoring With Computer Vis
 img: assets/img/open_cattle.jpg
 redirect: https://www.opencattle.com
 importance: 1
-category: Open Science
+category: OpenScience
 ---

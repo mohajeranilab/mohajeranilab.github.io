@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab
+title: People
+description: Members of the lab
 nav: true
 nav_order: 7
 
@@ -14,41 +14,41 @@ profiles:
     content: about_majid.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Majid Mohajerani</p>
-      <p>Principal Investigator</p>
+      <p>Dr. Majid Mohajerani</p><br>
+      <h3>Principal Investigator</h3>
   - align: left
     image: alireza_gharahi.jpg
     content: about_alireza.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Alireza Gharahi<br></p>
-      <p>Postdoc</p>
+      <p>Dr. Alireza Gharahi</p><br>
+      <h3>Postdoc</h3>
   - align: right
     image: farzad_sabahi.jpg
     content: about_farzad.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Farzad Sabahi<br></p>
-      <p>Postdoc</p>
+      <p>Dr. Farzad Sabahi</p><br>
+      <h3>Postdoc</h3>
   - align: left
     image: navid_ghassemi.jpg
     content: about_navid.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Navid Ghassemi<br></p>
-      <p>Ph.D. Student</p>
+      <p>Navid Ghassemi</p><br>
+      <h3>Ph.D. Student</h3>
   - align: right
     image: justine.PNG
     content: about_justine.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Yujun (Justine) Zhu<br></p>
-      <p>Ph.D. Student</p>
+      <p>Yujun (Justine) Zhu</p><br>
+      <h3>Ph.D. Student</h3>
   - align: left
     image: ali_goldani.jpg
     content: about_ali.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ali Goldani<br></p>
-      <p>Research Assistant</p>
+      <p>Ali Goldani</p><br>
+      <h3>Research Assistant</h3>
 ---
