@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lab_group_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>6875 Boulevard LaSalle</p>

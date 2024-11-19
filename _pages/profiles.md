@@ -21,34 +21,34 @@ profiles:
     content: about_alireza.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Alireza Gharahi</p>
+      <p>Dr. Alireza Gharahi<br></p>
       <p>Postdoc</p>
   - align: right
     image: farzad_sabahi.jpg
     content: about_farzad.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Farzad Sabahi</p>
+      <p>Dr. Farzad Sabahi<br></p>
       <p>Postdoc</p>
   - align: left
     image: navid_ghassemi.jpg
     content: about_navid.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Navid Ghassemi</p>
+      <p>Navid Ghassemi<br></p>
       <p>Ph.D. Student</p>
   - align: right
     image: justine.PNG
     content: about_justine.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Yujun (Justine) Zhu</p>
+      <p>Yujun (Justine) Zhu<br></p>
       <p>Ph.D. Student</p>
   - align: left
     image: ali_goldani.jpg
     content: about_ali.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ali Goldani</p>
+      <p>Ali Goldani<br></p>
       <p>Research Assistant</p>
 ---
