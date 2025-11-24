@@ -17,7 +17,7 @@ profiles:
       <p>Dr. Majid Mohajerani</p><br>
       <h3>Principal Investigator</h3>
   - align: left
-    image: alireza_gharahi.jpg
+    image: alireza_gharahi.jpeg
     content: about_alireza.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -45,7 +45,7 @@ profiles:
       <p>Ali Goldani</p><br>
       <h3>Alumni</h3>
   - align: left
-    image: farzad_sabahi.jpg
+    image: farzad_sabahi.jpeg
     content: about_farzad.md
     image_circular: false # crops the image to make it circular
     more_info: >
