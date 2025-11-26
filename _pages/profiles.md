@@ -51,4 +51,18 @@ profiles:
     more_info: >
       <p>Dr. Farzad Sabahi</p><br>
       <h3>Alumni</h3>
+  - align: right
+    image: amirhossein_mohammadi.jpg
+    content: about_amirhossein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Amirhossein (Shoka) Mohammadi</p><br>
+      <h3>Ph.D. Student</h3>
+  - align: left
+    image: jade.jpg
+    content: about_jade.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Xiaoxuan (Jade) Yu</p><br>
+      <h3>Ph.D. Student</h3>
 ---

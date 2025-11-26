@@ -1,0 +1,1 @@
+Amirhossein's research lies at the intersection of computational neuroscience, machine learning, and large-scale behavioral analysis. He works on self-supervised and foundation-model approaches with a focus on representation learning, multimodal modeling, and uncovering long-term behavioral structure.
