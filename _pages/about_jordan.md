@@ -1,0 +1,3 @@
+Jordan Caetana is a MSc student at McGil University in the Mohajerani lab. She has a BSc in Neuroscience from the University of Lethbridge. Jordan Caetana specialises in behavioural neuroscience and histology, actively developing her computational skills to complement her research. Currently, she is working on computational methods of identifying early onset of MS fatigue pathology and characterisation of animal behaviour in large group housing situations using open field monitoring. 
+
+Outside the lab, she is also involved in the Graduate Students' Association of Neuroscience (GSAN) as the Language Class Coordinator and Douglas Research Institute Representative.

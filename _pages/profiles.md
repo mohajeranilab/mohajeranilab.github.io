@@ -31,26 +31,12 @@ profiles:
       <p>Navid Ghassemi</p><br>
       <h3>Ph.D. Student</h3>
   - align: left
-    image: justine.PNG
+    image: justinezhu.JPG
     content: about_justine.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Yujun (Justine) Zhu</p><br>
       <h3>Ph.D. Student</h3>
-  - align: right
-    image: ali_goldani.jpg
-    content: about_ali.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Ali Goldani</p><br>
-      <h3>Alumni</h3>
-  - align: left
-    image: farzad_sabahi.jpeg
-    content: about_farzad.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Dr. Farzad Sabahi</p><br>
-      <h3>Alumni</h3>
   - align: right
     image: amirhossein_mohammadi.jpg
     content: about_amirhossein.md
@@ -65,4 +51,26 @@ profiles:
     more_info: >
       <p>Xiaoxuan (Jade) Yu</p><br>
       <h3>Ph.D. Student</h3>
----
+ - align: right
+    image: jordandudley.jpeg
+    content: about_jordan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Jordan Caetana Dudley</p><br>
+      <h3>MSc student</h3>
+  - align: left
+    image: ali_goldani.jpg
+    content: about_ali.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ali Goldani</p><br>
+      <h3>Alumni</h3>
+  - align: right
+    image: farzad_sabahi.jpeg
+    content: about_farzad.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Farzad Sabahi</p><br>
+      <h3>Alumni</h3>
+ 
+
