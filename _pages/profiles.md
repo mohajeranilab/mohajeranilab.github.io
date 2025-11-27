@@ -51,7 +51,7 @@ profiles:
     more_info: >
       <p>Xiaoxuan (Jade) Yu</p><br>
       <h3>Ph.D. Student</h3>
- - align: right
+  - align: right
     image: jordandudley.jpeg
     content: about_jordan.md
     image_circular: false # crops the image to make it circular
@@ -72,5 +72,5 @@ profiles:
     more_info: >
       <p>Dr. Farzad Sabahi</p><br>
       <h3>Alumni</h3>
- ---
+---
 
