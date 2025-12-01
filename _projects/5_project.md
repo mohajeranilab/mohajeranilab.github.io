@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Synthetic Cow
+title:  Multiple Sclerosis (MS) String Pulling Project
 description: Overcoming challenges of data scarcity
-img: assets/img/ali_project_figure.jpg
+img: assets/img/Jordan-Project2.jpg
 importance: 1
 category: Works
 related_publications: true
