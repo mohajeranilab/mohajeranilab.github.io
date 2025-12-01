@@ -52,7 +52,7 @@ profiles:
       <p>Xiaoxuan (Jade) Yu</p><br>
       <h3>Ph.D. Student</h3>
   - align: right
-    image: jordandudley.jpg
+    image: jordan.jpg
     content: about_jordan.md
     image_circular: false # crops the image to make it circular
     more_info: >
