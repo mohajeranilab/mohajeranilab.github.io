@@ -59,13 +59,20 @@ profiles:
       <p>Jordan Caetana Dudley</p><br>
       <h3>MSc student</h3>
   - align: left
+    image: atabak_ebrahimi.jpg
+    content: about_atabak.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Atabak Ebrahimi Rikan</p><br>
+      <h3>Research Assistant</h3>
+  - align: right
     image: ali_goldani.jpg
     content: about_ali.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ali Goldani</p><br>
       <h3>Alumni</h3>
-  - align: right
+  - align: left
     image: farzad_sabahi.jpeg
     content: about_farzad.md
     image_circular: false # crops the image to make it circular

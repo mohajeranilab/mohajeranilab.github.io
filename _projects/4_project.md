@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Synthetic Cow
-description: Overcoming challenges of data scarcity
-img: assets/img/ali_project_figure.jpg
+description: Closing the gap in non-invasive treatment options for Alzheimer’s disease
 importance: 1
 category: Works
 related_publications: true
