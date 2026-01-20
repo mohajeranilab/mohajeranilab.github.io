@@ -59,7 +59,7 @@ profiles:
       <p>Jordan Caetana Dudley</p><br>
       <h3>MSc student</h3>
   - align: left
-    image: atabak_ebrahimi.jpg
+    image: atabak-ebrahimi-rikan.jpg
     content: about_atabak.md
     image_circular: false # crops the image to make it circular
     more_info: >
