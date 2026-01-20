@@ -24,55 +24,62 @@ profiles:
       <p>Dr. Alireza Gharahi</p><br>
       <h3>Postdoc</h3>
   - align: right
+    image: esmaeel_ghasemi_gojani.jpg
+    content: about_esmaeel.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Esmaeel Ghasemi Gojani</p><br>
+      <h3>Postdoc</h3>
+  - align: left
     image: navid_ghassemi.jpg
     content: about_navid.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Navid Ghassemi</p><br>
       <h3>Ph.D. Student</h3>
-  - align: left
+  - align: right
     image: justinezhu.JPG
     content: about_justine.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Yujun (Justine) Zhu</p><br>
       <h3>Ph.D. Student</h3>
-  - align: right
+  - align: left
     image: amirhossein_mohammadi.jpg
     content: about_amirhossein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Amirhossein (Shoka) Mohammadi</p><br>
       <h3>Ph.D. Student</h3>
-  - align: left
+  - align: right
     image: jade.jpg
     content: about_jade.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Xiaoxuan (Jade) Yu</p><br>
       <h3>Ph.D. Student</h3>
-  - align: right
+  - align: left
     image: jordan.jpg
     content: about_jordan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Jordan Caetana Dudley</p><br>
       <h3>MSc student</h3>
-  - align: left
+  - align: right
     image: atabak-ebrahimi-rikan.jpg
     content: about_atabak.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Atabak Ebrahimi Rikan</p><br>
       <h3>Research Assistant</h3>
-  - align: right
+  - align: left
     image: ali_goldani.jpg
     content: about_ali.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ali Goldani</p><br>
       <h3>Alumni</h3>
-  - align: left
+  - align: right
     image: farzad_sabahi.jpeg
     content: about_farzad.md
     image_circular: false # crops the image to make it circular
