@@ -1,8 +1,7 @@
 ---
 layout: page
 title:  Scalable Self-Supervised Pipelines for Natural Behaviour Modeling in animals
-description: Overcoming challenges of data scarcity
-img: assets/img/Jordan-Project2.jpg
+description: A scalable self-supervised framework that learns 4D representations of natural behaviour
 importance: 1
 category: Works
 related_publications: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Synthetic Cow
+title: Tactile Sensory Stimulation in Alzheimer’s Disease
 description: Closing the gap in non-invasive treatment options for Alzheimer’s disease
 importance: 1
 category: Works

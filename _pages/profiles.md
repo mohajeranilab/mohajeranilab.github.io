@@ -28,7 +28,7 @@ profiles:
     content: about_esmaeel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Esmaeel Ghasemi Gojani</p><br>
+      <p>Dr. Esmaeel Ghasemi Gojani</p><br>
       <h3>Postdoc</h3>
   - align: left
     image: navid_ghassemi.jpg
