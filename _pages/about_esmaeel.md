@@ -1,3 +1,5 @@
 Esmaeel Ghasemi Gojani holds a PhD in Biomolecular Science from the University of Lethbridge and a PhD in Plant Biotechnology with a specialization in Molecular Genetics and Genetic Engineering from the University of Tehran. He also earned an MSc in Plant Biotechnology from the University of Tehran.
+
 He is currently a postdoctoral fellow at the Canadian Centre for Behavioural Neuroscience in the Department of Neuroscience at the University of Lethbridge, following a prior postdoctoral appointment in the Department of Biological Sciences. His current research focuses on the effects of psychedelics on Alzheimer’s disease, with particular emphasis on neuroinflammation, and neuronal plasticity. His work investigates the therapeutic potential of compounds such as psilocybin and related agents using cellular and animal models of Alzheimer’s disease.
+
 Prior to completing his second PhD, he served as an Assistant Professor at the Agricultural Sciences and Natural Resources University of Khuzestan, Iran, where he taught and supervised graduate students. His research integrates molecular biology, and neurobiology.
